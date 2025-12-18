@@ -7,6 +7,7 @@ Hệ Thống Cổng Thông Minh ESP32
 - Điều khiển từ xa qua Firebase
 - Ghi log truy cập và sự kiện hệ thống
 - Hiển thị trạng thái trên màn hình OLED.
+- 
 
 
-<img width="1192" height="673" alt="image" src="https://github.com/user-attachments/assets/07cc76ae-9790-4cfe-9f0f-768968aba082" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/07cc76ae-9790-4cfe-9f0f-768968aba082" />
